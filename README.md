@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently building<br><br>* ShadowKey → authentication without passwords<br>* RewEarth → making fashion circular<br>* ConsentLens → redefining digital consent<br>* Nagara Sancharam → mapping cities in real time<br><br><br>🤝 I’m looking to collaborate on<br><br>* AI × security crossovers<br>* Behavioral modeling & anomaly detection<br>* Systems that scale beyond demos<br>* Hackathons where execution > slides<br><br><br>🧠 I’m currently learning<br><br>* ML fundamentals (math + intuition, not just libraries)<br>* Writing cleaner, more maintainable backend code<br>* Designing small systems that actually work<br>* Turning raw ideas into working prototypes<br><br><br>💬 Ask me about<br><br>* Building serious hackathon projects fast<br>* Going from idea → architecture → prototype in 48 hours<br>* AI + security product thinking<br>* Structuring life with consistency<br><br><br>⚡ Fun fact<br><br>I’m trying to be slightly better than yesterday. Every day.<br><br>
 
 
